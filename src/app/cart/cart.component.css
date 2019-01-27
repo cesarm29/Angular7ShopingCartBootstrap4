@@ -1,0 +1,31 @@
+
+html {
+    min-height: 100%;
+    overflow-x: hidden;
+  }
+  
+  .row {
+    min-height: 100vh;
+  }
+
+
+img{
+    width: 90px;
+    height: 90px;
+    text-align: center;
+}
+
+
+@media (min-width: 992px){
+.container {
+    max-width: 860px;
+    overflow-x: hidden;
+}
+}
+
+@media (min-width: 768px){
+.col-md-9 .col-xs-11 .p-l-2 .p-t-2 {
+    flex: 0 0 75%;
+    max-width: 75%;
+    padding-left: 50px;
+}}

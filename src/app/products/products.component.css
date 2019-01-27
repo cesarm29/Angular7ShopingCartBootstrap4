@@ -1,0 +1,22 @@
+body {
+    overflow-x: hidden;
+  }
+
+
+img{
+    width: 90px;
+    height: 90px;
+    text-align: center;
+}
+
+#product{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 20px;
+}
